@@ -1,2 +1,2 @@
 # IBM-PROJECT
-The repository conatins my Employee Salary Prediction Project made during the inetrnship of Edunet-IBM.  
+The repository contains my Employee Salary Prediction Project made during my virtual inetrnship at Edunet-IBM.  
